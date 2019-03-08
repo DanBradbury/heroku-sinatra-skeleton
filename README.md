@@ -12,3 +12,7 @@ heroku open
 ```
 and you should have a running sinatra instance on heroku.
 
+
+### Extra addons
+- `postgresql`
+- `sinatra/activerecord`
