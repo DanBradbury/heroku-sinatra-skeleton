@@ -16,3 +16,6 @@ and you should have a running sinatra instance on heroku.
 ### Extra addons
 - `postgresql`
 - `sinatra/activerecord`
+
+## ActiveRecord Usage
+[Sinatra DB Recipe](http://recipes.sinatrarb.com/p/databases/postgresql-activerecord)
