@@ -1,5 +1,3 @@
-require 'addressable/uri'
-require 'date'
 require 'haml'
 require 'slim'
 require 'sinatra'
